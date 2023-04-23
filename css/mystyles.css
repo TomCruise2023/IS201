@@ -1,0 +1,37 @@
+p{
+    font-weight: bold;
+    }
+    
+    #HeadTitle{
+    text-decoration: underline;
+    font-style: initial;
+    color: black;
+    }
+    
+    .emphasizedText{
+        font-style: italic;
+        color: gray;
+    }
+    
+    body{
+        background-color: whitesmoke;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: black;
+        border: 5px solid black ;
+        padding: 20px;
+        margin: 20px;
+        text-align: center;
+    
+    }
+    
+    ol{
+        list-style-position: outside;
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    ul{
+        list-style-position: inside;
+        text-align: left;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    
